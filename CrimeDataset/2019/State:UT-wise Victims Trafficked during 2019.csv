@@ -1,0 +1,40 @@
+Category,State/UT ,Below 18 Yrs - Male,Below 18 Yrs - Female,Below 18 Yrs - Total,Above 18 Yrs - Male,Above 18 Yrs - Female,Above 18 Yrs - Total,Total - Male,Total - Female,Total - Total
+State,Andhra Pradesh ,0,18,18,1,380,381,1,398,399
+State,Arunachal Pradesh ,1,3,4,0,0,0,1,3,4
+State,Assam ,24,56,80,36,132,168,60,188,248
+State,Bihar ,261,33,294,0,22,22,261,55,316
+State,Chhattisgarh ,52,61,113,131,94,225,183,155,338
+State,Goa ,0,2,2,0,88,88,0,90,90
+State,Gujarat ,0,2,2,0,20,20,0,22,22
+State,Haryana ,3,3,6,0,14,14,3,17,20
+State,Himachal Pradesh ,0,1,1,2,14,16,2,15,17
+State,Jammu & Kashmir ,0,0,0,0,0,0,0,0,0
+State,Jharkhand  ,34,138,172,19,48,67,53,186,239
+State,Karnataka ,12,30,42,32,112,144,44,142,186
+State,Kerala ,22,155,177,14,27,41,36,182,218
+State,Madhya Pradesh ,47,76,123,0,92,92,47,168,215
+State,Maharashtra ,34,61,95,16,875,891,50,936,986
+State,Manipur ,2,3,5,33,151,184,35,154,189
+State,Meghalaya ,0,30,30,0,1,1,0,31,31
+State,Mizoram ,3,22,25,2,27,29,5,49,54
+State,Nagaland ,0,2,2,0,18,18,0,20,20
+State,Odisha ,94,108,202,424,250,674,518,358,876
+State,Punjab ,1,8,9,2,8,10,3,16,19
+State,Rajasthan ,636,17,653,5,6,11,641,23,664
+State,Sikkim ,0,0,0,0,2,2,0,2,2
+State,Tamil Nadu ,21,22,43,18,16,34,39,38,77
+State,Telangana ,1,70,71,0,263,263,1,333,334
+State,Tripura ,0,1,1,0,1,1,0,2,2
+State,Uttar Pradesh ,16,16,32,11,94,105,27,110,137
+State,Uttarakhand ,5,11,16,0,20,20,5,31,36
+State,West Bengal ,11,148,159,7,96,103,18,244,262
+State,TOTAL STATE(S) ,1280,1097,2377,753,2871,3624,2033,3968,6001
+UT,A & N Islands ,0,0,0,0,0,0,0,0,0
+UT,Chandigarh ,0,1,1,0,1,1,0,0,0
+UT,D & N Haveli ,0,0,0,0,0,0,0,0,0
+UT,Daman & Diu ,0,0,0,0,0,0,0,0,0
+UT,Delhi UT ,462,74,536,42,30,72,504,104,608
+UT,Lakshadweep ,0,0,0,0,0,0,0,0,0
+UT,Puducherry ,0,0,0,0,5,5,0,0,0
+UT,TOTAL UT(S) ,462,75,537,42,36,78,504,111,615
+Grand Total,TOTAL (ALL INDIA) ,1742,1172,2914,795,2907,3702,2537,4079,6616

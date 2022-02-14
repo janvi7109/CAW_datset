@@ -1,0 +1,55 @@
+Category,S. No.,Crime Head,Persons Arrested - Male,Persons Arrested - Female,Persons Arrested - Total,Persons Chargesheeted - Male,Persons Chargesheeted - Female,Persons Chargesheeted - Total,Persons Convicted - Male,Persons Convicted - Female,Persons Convicted - Total,Persons Discharged - Male,Persons Discharged - Female,Persons Discharged - Total,Persons Acquitted - Male,Persons Acquitted - Female,Persons Acquitted - Total
+IPC Crimes against Women,1,Murder with Rape/Gang Rape,24,2,26,19,1,20,4,0,4,0,0,0,4,0,4
+IPC Crimes against Women,2,Dowry Deaths,674,142,816,582,118,700,199,6,205,10,0,10,316,32,348
+IPC Crimes against Women,3,Abetment to Suicide of Women,548,188,736,514,179,693,8,1,9,0,0,0,147,37,184
+IPC Crimes against Women,4,Miscarriage,3,1,4,0,0,0,0,0,0,0,0,0,0,0,0
+IPC Crimes against Women,5,Acid Attack,28,2,30,23,2,25,3,0,3,0,0,0,3,3,6
+IPC Crimes against Women,6,Attempt to Acid Attack,9,1,10,10,1,11,2,0,2,0,0,0,1,0,1
+IPC Crimes against Women,7,Cruelty by Husband or his relatives,12347,4175,16522,20301,4651,24952,846,131,977,434,58,492,3449,900,4349
+IPC Crimes against Women,8,Kidnapping and Abduction of Women,2981,43,3024,2347,28,2375,170,0,170,28,0,28,660,10,670
+IPC Crimes against Women,8.1,Kidnapping and Abduction,892,28,920,782,21,803,83,0,83,20,0,20,204,7,211
+IPC Crimes against Women,8.2,Kidnapping and Abduction in order to Murder,1,0,1,1,0,1,0,0,0,0,0,0,1,0,1
+IPC Crimes against Women,8.3,Kidnapping for Ransom,15,0,15,16,0,16,0,0,0,0,0,0,2,0,2
+IPC Crimes against Women,8.4,Kidnapping and Abduction of Women to compel her for marriage,1721,1,1722,1193,1,1194,82,0,82,7,0,7,427,3,430
+IPC Crimes against Women,8.4.1,Women,1220,0,1220,778,0,778,66,0,66,6,0,6,383,0,383
+IPC Crimes against Women,8.4.2,Girls,501,1,502,415,1,416,16,0,16,1,0,1,44,3,47
+IPC Crimes against Women,8.5,Procuration of Minor Girls,28,0,28,61,0,61,0,0,0,0,0,0,5,0,5
+IPC Crimes against Women,8.6,Importation of Girls from Foreign Country,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0
+IPC Crimes against Women,8.7,Kidnapping and Abduction of Women – Others,322,14,336,292,6,298,5,0,5,1,0,1,21,0,21
+IPC Crimes against Women,9,Human Trafficking,264,130,394,225,90,315,2,0,2,0,0,0,23,17,40
+IPC Crimes against Women,10,Selling of Minor Girls,0,0,0,0,0,0,1,1,2,0,0,0,4,0,4
+IPC Crimes against Women,11,Buying of Minor Girls,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IPC Crimes against Women,12,Rape,3804,124,3928,3498,106,3604,311,2,313,53,0,53,1059,23,1082
+IPC Crimes against Women,12.1,Women,3596,122,3718,3340,105,3445,301,2,303,51,0,51,1024,23,1047
+IPC Crimes against Women,12.2,Girls,208,2,210,158,1,159,10,0,10,2,0,2,35,0,35
+IPC Crimes against Women,13,Attempt to Commit Rape,68,1,69,54,2,56,5,0,5,1,0,1,17,0,17
+IPC Crimes against Women,13.1,Women,65,1,66,50,2,52,5,0,5,0,0,0,17,0,17
+IPC Crimes against Women,13.2,Girls,3,0,3,4,0,4,0,0,0,1,0,1,0,0,0
+IPC Crimes against Women,14,Assault on Women with Intent to Outrage her Modesty,11451,584,12035,10784,525,11309,1033,24,1057,143,1,144,2225,107,2332
+IPC Crimes against Women,14.1,Women,11300,584,11884,10638,521,11159,997,24,1021,138,1,139,2162,107,2269
+IPC Crimes against Women,14.2,Girls,151,0,151,146,4,150,36,0,36,5,0,5,63,0,63
+IPC Crimes against Women,15,Insult to the Modesty of Women,1921,96,2017,1698,57,1755,173,2,175,39,1,40,367,6,373
+IPC Crimes against Women,15.1,Women,1915,96,2011,1694,57,1751,171,2,173,39,1,40,366,6,372
+IPC Crimes against Women,15.2,Girls,6,0,6,4,0,4,2,0,2,0,0,0,1,0,1
+IPC Crimes against Women,Total,Total IPC Crimes against Women,34122,5489,39611,40055,5760,45815,2757,167,2924,708,60,768,8275,1135,9410
+SLL Crimes against Women,16,Dowry Prohibition Act,1530,801,2331,1403,713,2116,15,0,15,0,0,0,673,337,1010
+SLL Crimes against Women,17,Immoral Traffic (Prevention) Act,665,379,1044,419,249,668,84,52,136,6,3,9,220,101,321
+SLL Crimes against Women,17.1,"Procuring, inducing Children for the sake of prostitution",281,107,388,116,42,158,40,11,51,2,0,2,57,22,79
+SLL Crimes against Women,17.2,Detaining a person in premises where prostitution is carried on,104,34,138,62,22,84,7,6,13,1,0,1,2,0,2
+SLL Crimes against Women,17.3,Prostitution in or in the vicinity of public places,70,115,185,65,95,160,3,4,7,0,0,0,16,6,22
+SLL Crimes against Women,17.4,Seducing or soliciting for purpose of prostitution,18,56,74,18,56,74,5,26,31,0,0,0,5,4,9
+SLL Crimes against Women,17.5,Other Sections under ITP Act,192,67,259,158,34,192,29,5,34,3,3,6,140,69,209
+SLL Crimes against Women,18,Protection of Women from Domestic Violence Act,11,0,11,10,0,10,0,0,0,0,0,0,2,1,3
+SLL Crimes against Women,19,Cyber Crimes/Information Technology Act,38,7,45,42,156,198,0,0,0,0,0,0,0,35,35
+SLL Crimes against Women,19.1,Publishing or Transmitting of Sexually Explicit Material,21,5,26,26,154,180,0,0,0,0,0,0,0,35,35
+SLL Crimes against Women,19.2,Other Women Centric Cyber Crimes,17,2,19,16,2,18,0,0,0,0,0,0,0,0,0
+SLL Crimes against Women,20,Protection of Children from Sexual Offences Act,7262,158,7420,6425,138,6563,1235,5,1240,63,0,63,1334,21,1355
+SLL Crimes against Women,20.1,POCSO Act Section 4 & 6,3820,95,3915,3401,83,3484,764,3,767,42,0,42,756,12,768
+SLL Crimes against Women,20.2,POCSO Act Section 8 & 10,2976,47,3023,2645,40,2685,434,2,436,20,0,20,519,1,520
+SLL Crimes against Women,20.3,POCSO Act Section 12,261,8,269,253,6,259,17,0,17,1,0,1,37,1,38
+SLL Crimes against Women,20.4,POCSO Act Section 14 & 15,22,1,23,20,1,21,1,0,1,0,0,0,4,0,4
+SLL Crimes against Women,20.5,POCSO Act Section 17-22,82,7,89,103,8,111,18,0,18,0,0,0,15,7,22
+SLL Crimes against Women,20.6,POCSO Act  r/w Section 377 IPC,101,0,101,3,0,3,1,0,1,0,0,0,3,0,3
+SLL Crimes against Women,21,Indecent Representation of Women (Prohibition) Act,1,1,2,1,1,2,1,0,1,0,0,0,2,0,2
+SLL Crimes against Women,Total,Total SLL Crimes against Women,9507,1346,10853,8300,1257,9557,1335,57,1392,69,3,72,2231,495,2726
+Total Crime against Women,Total Crime against Women,Total Crime against Women,43629,6835,50464,48355,7017,55372,4092,224,4316,777,63,840,10506,1630,12136

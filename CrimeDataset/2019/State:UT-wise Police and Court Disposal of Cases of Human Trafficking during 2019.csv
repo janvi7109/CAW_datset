@@ -1,0 +1,40 @@
+Category,State/UT ,Total number of Cases Reported,Disposal by Police - Cases Charge-sheeted  ,Disposal by Police - Final Report,Disposal by Police - Charge-sheeted Rate (Col.4/Col.4+ Col.5) X 100,Disposal by Court - Cases Convicted by court,Disposal by Court - Cases Acquitted/ Discharged by court ,Disposal by Court - Cases in which Trials were Completed  (Col.7 + Col.8),Disposal by Court - Cases Conviction rate (Col.7/ Col.9) X 100
+State,Andhra Pradesh ,245,159,1,99.4,52,186,238,21.8
+State,Arunachal Pradesh ,0,0,1,0,0,0,0,NA
+State,Assam  ,201,84,55,60.4,0,19,19,0
+State,Bihar ,106,27,0,100,0,0,0,NA
+State,Chhattisgarh ,50,29,11,72.5,3,6,9,33.3
+State,Goa ,38,36,2,94.7,1,10,11,9.1
+State,Gujarat ,11,11,0,100,0,0,0,NA
+State,Haryana ,15,8,4,66.7,0,25,25,0
+State,Himachal Pradesh ,11,9,1,90,3,2,5,60
+State,Jammu & Kashmir ,0,0,1,0,0,1,1,0
+State,Jharkhand   ,177,121,61,66.5,32,17,121,26.4
+State,Karnataka ,32,23,1,95.8,0,0,0,NA
+State,Kerala ,180,106,12,89.8,2,4,6,33.3
+State,Madhya Pradesh ,73,72,0,100,8,25,33,24.2
+State,Maharashtra ,282,161,3,98.2,1,6,7,14.3
+State,Manipur ,9,2,1,66.7,0,0,0,NA
+State,Meghalaya ,22,2,3,40,0,0,0,NA
+State,Mizoram ,7,5,1,83.3,0,0,0,NA
+State,Nagaland ,3,2,0,100,0,0,0,NA
+State,Odisha ,147,136,0,100,0,0,0,NA
+State,Punjab ,19,12,1,92.3,0,5,5,0
+State,Rajasthan ,141,126,2,98.4,0,0,0,NA
+State,Sikkim  ,0,0,0,NA,0,0,0,NA
+State,Tamil Nadu ,16,11,1,91.7,2,2,4,50
+State,Telangana ,137,137,5,96.5,51,124,175,29.1
+State,Tripura ,1,0,0,,0,0,0,NA
+State,Uttar Pradesh ,48,38,8,82.6,2,0,2,100
+State,Uttarakhand ,20,16,4,80,1,6,7,14.3
+State,West Bengal ,172,231,128,64.3,12,98,110,10.9
+State,TOTAL STATE(S) ,2163,1564,307,83.6,170,536,778,21.9
+UT,A & N Islands ,0,0,0,NA,0,0,0,NA
+UT,Chandigarh ,2,1,0,100,0,0,0,NA
+UT,D & N Haveli  ,0,0,0,NA,0,0,0,NA
+UT,Daman & Diu ,0,1,0,100,0,1,1,NA
+UT,Delhi UT ,93,40,5,88.9,2,1,3,66.7
+UT,Lakshadweep ,0,0,0,NA,0,0,0,NA
+UT,Puducherry ,2,0,0,NA,0,0,0,NA
+UT,TOTAL UT(S) ,97,42,5,89.4,2,2,4,50
+Grand Total,TOTAL (ALL INDIA) ,2260,1606,312,83.7,172,538,782,22

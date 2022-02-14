@@ -1,0 +1,40 @@
+Si. No (Col. 1),Category ,State/UT (Col. 2),Forced Labour - (Col. 3),Sexual Exploitation for Prostitution - (Col. 4),Other forms of sexual exploitation -(Col. 5),Domestic Servitude - (Col. 6),Forced marriage - (Col. 7),Petty Crimes - (Col. 8),Child Pornography - (Col. 9),Begging - (Col. 10),Drug Peddling - (Col. 11),Removal of Organs - (Col. 12),Other reasons - (Col. 13),Total Persons - (Col. 14)
+1,State,Andhra Pradesh,8,200,0,8,0,0,0,1,0,0,40,257
+2,State,Arunachal Pradesh,0,0,0,9,1,0,0,0,0,0,3,13
+3,State,Assam,26,0,0,36,18,0,0,0,0,0,77,157
+4,State,Bihar,23,77,0,1,1,0,0,0,0,0,77,179
+5,State,Chhattisgarh,63,0,0,4,4,6,0,0,0,0,19,96
+6,State,Goa,0,30,0,0,0,0,0,0,0,0,0,30
+7,State,Gujarat,42,8,0,0,2,0,0,0,0,0,35,87
+8,State,Haryana,0,9,0,0,7,0,0,0,0,0,2,18
+9,State,Himachal Pradesh,2,0,0,0,0,0,0,0,0,0,11,13
+10,State,Jharkhand,193,0,0,73,12,0,0,0,0,0,0,278
+11,State,Karnataka,13,11,0,0,0,0,14,0,0,0,1,39
+12,State,Kerala,10,9,0,0,46,0,0,2,0,0,129,196
+13,State,Madhya Pradesh,4,36,0,8,40,0,0,0,0,0,25,113
+14,State,Maharashtra,0,541,0,0,4,3,0,0,0,0,9,557
+15,State,Manipur,7,0,0,0,0,0,0,0,0,0,2,9
+16,State,Meghalaya,0,1,0,0,0,0,0,0,0,0,1,2
+17,State,Mizoram,0,0,0,0,0,0,0,0,0,0,0,0
+18,State,Nagaland,0,0,0,0,0,0,0,0,0,0,0,0
+19,State,Odisha,653,9,0,2,6,1,0,0,0,0,93,764
+20,State,Punjab,16,16,0,0,1,0,0,1,0,0,47,81
+21,State,Rajasthan,127,4,0,683,4,0,0,0,0,0,0,818
+22,State,Sikkim,0,0,0,0,0,0,0,0,0,0,4,4
+23,State,Tamil Nadu,19,2,0,0,0,0,0,0,0,0,15,36
+24,State,Telangana,31,363,0,7,0,0,0,0,0,0,37,438
+25,State,Tripura,0,1,0,0,0,0,0,0,0,0,1,2
+26,State,Uttar Pradesh,5,130,0,6,21,1,0,2,0,0,9,174
+27,State,Uttarakhand,0,5,0,1,1,0,0,4,0,0,2,13
+28,State,West Bengal,5,7,0,1,16,0,0,0,0,0,46,75
+Total State(s),Total State(s),Total State(s),1247,1459,0,839,184,11,14,10,0,0,685,4449
+29,Union Territories,A & N Islands,0,0,0,0,0,0,0,0,0,0,0,0
+30,Union Territories,Chandigarh,0,0,0,0,0,0,0,0,0,0,3,3
+31,Union Territories,D & N Haveli and Daman & Diu,0,2,0,0,0,0,0,0,0,0,0,2
+32,Union Territories,Delhi,205,5,0,7,2,0,0,0,0,0,5,224
+33,Union Territories,Jammu & Kashmir,0,0,0,0,1,0,0,0,0,0,1,2
+34,Union Territories,Ladakh,0,0,0,0,0,0,0,0,0,0,0,0
+35,Union Territories,Lakshadweep,0,0,0,0,0,0,0,0,0,0,0,0
+36,Union Territories,Puducherry,0,0,0,0,0,0,0,0,0,0,0,0
+Total UT(s),Total UT(s),Total UT(s),205,7,0,7,3,0,0,0,0,0,9,231
+Total All India,Total All India,Total All India,1452,1466,0,846,187,11,14,10,0,0,694,4680

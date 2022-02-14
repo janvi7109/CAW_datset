@@ -1,0 +1,40 @@
+Si. No (Col. 1),Category ,State/UT (Col. 2),Below 18 Yrs - Male - (Col. 3),Below 18 Yrs - Female - (Col. 4),Below 18 Yrs - Total - (Col. 5),Above 18 Yrs - Male - (Col. 6),Above 18 Yrs - Female - (Col. 7),Above 18 Yrs - Total - (Col. 8),Total - Male - (Col. 9),Total - Female - (Col. 10),Total - Total - (Col. 11)
+1,State,Andhra Pradesh,7,16,23,8,204,212,15,220,235
+2,State,Arunachal Pradesh,4,9,13,0,0,0,4,9,13
+3,State,Assam,23,61,84,7,86,93,30,147,177
+4,State,Bihar,75,48,123,2,54,56,77,102,179
+5,State,Chhattisgarh,16,19,35,39,36,75,55,55,110
+6,State,Goa,0,1,1,0,29,29,0,30,30
+7,State,Gujarat,61,4,65,14,8,22,75,12,87
+8,State,Haryana,1,6,7,1,10,11,2,16,18
+9,State,Himachal Pradesh,2,0,2,0,11,11,2,11,13
+10,State,Jharkhand,16,98,114,37,150,187,53,248,301
+11,State,Karnataka,1,1,2,7,32,39,8,33,41
+12,State,Kerala,28,156,184,2,33,35,30,189,219
+13,State,Madhya Pradesh,15,64,79,0,53,53,15,117,132
+14,State,Maharashtra,5,44,49,1,462,463,6,506,512
+15,State,Manipur,2,2,4,1,5,6,3,7,10
+16,State,Meghalaya,0,1,1,0,1,1,0,2,2
+17,State,Mizoram,0,0,0,0,0,0,0,0,0
+18,State,Nagaland,0,0,0,0,0,0,0,0,0
+19,State,Odisha,78,81,159,376,206,582,454,287,741
+20,State,Punjab,59,6,65,2,18,20,61,24,85
+21,State,Rajasthan,762,53,815,0,3,3,762,56,818
+22,State,Sikkim,0,2,2,0,1,1,0,3,3
+23,State,Tamil Nadu,8,16,24,7,6,13,15,22,37
+24,State,Telangana,24,8,32,14,393,407,38,401,439
+25,State,Tripura,1,1,2,0,1,1,1,2,3
+26,State,Uttar Pradesh,0,61,61,0,119,119,0,180,180
+27,State,Uttarakhand,0,9,9,0,5,5,0,14,14
+28,State,West Bengal,9,44,53,1,17,18,10,61,71
+Total State(s),Total State(s),Total State(s),1197,811,2008,519,1943,2462,1716,2754,4470
+29,Union Territories,A & N Islands,0,0,0,0,2,2,0,2,2
+30,Union Territories,Chandigarh,1,2,3,0,0,0,1,2,3
+31,Union Territories,D & N Haveli and Daman & Diu,0,2,2,0,0,0,0,2,2
+32,Union Territories,Delhi,178,24,202,15,7,22,193,31,224
+33,Union Territories,Jammu & Kashmir,1,1,2,0,0,0,1,1,2
+34,Union Territories,Ladakh,0,0,0,0,0,0,0,0,0
+35,Union Territories,Lakshadweep,0,0,0,0,0,0,0,0,0
+36,Union Territories,Puducherry,0,5,5,1,0,1,1,5,6
+Total UT(s),Total UT(s),Total UT(s),180,34,214,16,9,25,196,43,239
+Total All India,Total All India,Total All India,1377,845,2222,535,1952,2487,1912,2797,4709

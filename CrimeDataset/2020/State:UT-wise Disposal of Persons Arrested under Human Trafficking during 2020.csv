@@ -1,0 +1,40 @@
+Si. No (Col. 1),Category ,State/UT (Col. 2),Persons Arrested - (Col. 3),Persons Chargesheeted - (Col. 4),Persons Convicted - (Col. 5),Persons Acquitted/ discharged by the Court - (Col. 6)
+1,State,Andhra Pradesh,619,324,13,181
+2,State,Arunachal Pradesh,3,2,0,4
+3,State,Assam,166,87,0,10
+4,State,Bihar,247,229,0,0
+5,State,Chhattisgarh,105,101,0,2
+6,State,Goa,27,36,0,6
+7,State,Gujarat,68,56,0,0
+8,State,Haryana,51,46,0,0
+9,State,Himachal Pradesh,8,5,0,0
+10,State,Jharkhand,333,269,58,160
+11,State,Karnataka,59,56,0,0
+12,State,Kerala,408,264,0,16
+13,State,Madhya Pradesh,309,287,5,26
+14,State,Maharashtra,567,346,2,8
+15,State,Manipur,8,0,0,0
+16,State,Meghalaya,0,0,0,0
+17,State,Mizoram,0,0,0,0
+18,State,Nagaland,9,9,0,0
+19,State,Odisha,189,120,0,9
+20,State,Punjab,84,55,0,18
+21,State,Rajasthan,273,251,0,0
+22,State,Sikkim,3,0,0,0
+23,State,Tamil Nadu,37,21,11,1
+24,State,Telangana,752,684,2,126
+25,State,Tripura,7,7,0,0
+26,State,Uttar Pradesh,344,158,0,0
+27,State,Uttarakhand,23,29,5,15
+28,State,West Bengal,109,110,1,128
+Total State(s),Total State(s),Total State(s),4808,3552,97,710
+29,Union Territories,A & N Islands,1,1,0,0
+30,Union Territories,Chandigarh,7,7,0,0
+31,Union Territories,D & N Haveli and Daman & Diu,9,9,0,0
+32,Union Territories,Delhi,112,80,4,5
+33,Union Territories,Jammu & Kashmir,12,12,0,0
+34,Union Territories,Ladakh,0,0,0,0
+35,Union Territories,Lakshadweep,0,0,0,0
+36,Union Territories,Puducherry,17,0,0,0
+Total UT(s),Total UT(s),Total UT(s),158,109,4,5
+Total All India,Total All India,Total All India,4966,3661,101,715
